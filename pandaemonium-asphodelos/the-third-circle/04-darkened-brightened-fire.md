@@ -9,7 +9,7 @@ The first part of this mechanic is Darkened Fire.  The boss will target four pla
 
 To handle this, all DPS should be standing on the square that matches their clock spot.  All tanks and healers will rotate clockwise to stand with a DPS.
 
-![Darkened Fire Positions](../images/darkened-fire.png)
+![Darkened Fire Positions](./images/darkened-fire.png)
 
 ### Brightened Fire
 The second part of this mechanic is Brightened Fire.  All players will targeted for Brightened FIre as denoted by the white AoE circle targeting them.  Along with this, players will be marked by numbered dots above their head from 1 to 8.
@@ -25,4 +25,4 @@ To handle, this, we'll have people stand on the 1, 2, 3, and 4 waymarks based on
 
 Once all 8 Brightened Fire have resolved, the Darkened Fire spawns must be killed quickly before they enrage and explode. 
 
-![Brightened Fire Positions](../images/brightened-fire.png)
+![Brightened Fire Positions](./images/brightened-fire.png)
