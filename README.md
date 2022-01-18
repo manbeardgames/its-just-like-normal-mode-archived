@@ -5,5 +5,5 @@ This repository is to store documents, resources, and images for the It's Just L
 The following are links to resources for the Pandæmonium Asphodelos (Savage) fights
 - The First Circle
 - The Second Circle
-- [The Third Circle](/the-third-circle/index.md)
+- [The Third Circle](./pandaemonium-asphodelos/the-third-circle/index.md)
 - The Fourth Circle
