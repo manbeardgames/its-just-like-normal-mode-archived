@@ -9,7 +9,7 @@ I'm going to wrap all four of these mechanics into one document since the execut
 ### Devouring Brand
 Devouring brand will spawn fire lines in the cardinals of the edge of the arena. After a short period of time, the lines will start to move inward and meet at the center of the arena. Shortly after this, each line will then expand in width, dealing damage to any standing in the area they expand too.
 
-**WHen this is being cast, party should be stacked in the the middel of the arena to wait for the Experimental Fireplume that occurs next.**
+**When this is being cast, party should be stacked in the the middel of the arena to wait for the Experimental Fireplume that occurs next.**
 
 ![Devouring Brand](./images/devouring-brand-1.png)
 
