@@ -10,3 +10,4 @@ The following are links and resources for the Pandæmonium Asphodelos: The Third
 - [Heart of Condemnation #2](05-heart-of-condemnation-2.md)
 - [Devouring Brand + Experimental Fireplume + Seering Breeze + Cinderwing + Heart of Condemnation #3](06-brand-wind-condemnation.md)
 - [Trail of Condemnation](07-trail-of-condemnation.md)
+- [Adds Phase](08-adds-phase.md)
