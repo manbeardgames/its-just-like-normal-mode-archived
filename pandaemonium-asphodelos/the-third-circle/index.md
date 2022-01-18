@@ -8,5 +8,5 @@ The following are links and resources for the Pandæmonium Asphodelos: The Third
 - [Left/Right Cinderwing](03-left-right-cinderwing.md)
 - [Darkened + Brightened Fire](04-darkened-brightened-fire.md)
 - [Heart of Condemnation #2](05-heart-of-condemnation-2.md)
-- [Devouring Brand + Experimental Fireplume + Seering Breeze + Cinderwing + Heart of Condemnation #3](06-brand-wind-condemnatino.md)
-- [Trail of Condemnation](07-trail-of-condemnation.md])
+- [Devouring Brand + Experimental Fireplume + Seering Breeze + Cinderwing + Heart of Condemnation #3](06-brand-wind-condemnation.md)
+- [Trail of Condemnation](07-trail-of-condemnation.md)
