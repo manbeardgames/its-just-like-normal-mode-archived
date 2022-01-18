@@ -7,3 +7,4 @@ The following are links and resources for the Pandæmonium Asphodelos: The Third
 - [Experimental Fireplume](02-experimental-fireplume.md)
 - [Left/Right Cinderwing](03-left-right-cinderwing.md)
 - [Darkened + Brightened Fire](04-darkened-brightened-fire.md)
+- [Heart of Condemnation #2](05-heart-of-condemnation-2.md)
